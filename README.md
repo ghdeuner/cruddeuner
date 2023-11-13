@@ -4,7 +4,7 @@
 
 Essa é uma aplicação de CRUD básico em que consiste em manipular dados no banco através da entidade Pessoa.
 
-## FUNCIONALIDADES :
+## FUNCÕES :
 
 - Encontra uma pessoa registrada no sistema por ID.
 - Encontra uma lista de pessoas registradas no sistema.
@@ -12,7 +12,7 @@ Essa é uma aplicação de CRUD básico em que consiste em manipular dados no ba
 - Atualiza dados de uma pessoa do sistema.
 - Deleta uma pessoa do sistema.
 
-## VERSIONAMENTO :
+## VERSÃO :
 
 Versão do Java: 17
 
