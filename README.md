@@ -1,8 +1,8 @@
 # CRUD de Pessoas
 
-## O QUE É A APLICAÇÃO :
+## SOBRE A APLICAÇÃO :
 
-Essa é uma aplicação de CRUD básico em que consiste em manipular dados no banco através da entidade Pessoa.
+É uma aplicação de CRUD básico que consiste em manipular dados no banco através da entidade Pessoa.
 
 ## FUNCÕES :
 
